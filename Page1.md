@@ -14,4 +14,5 @@ This lab offers a fundamental exploration of the AWS Database Migration Service.
 
 ### Duration
 This lab approximately requires 90 minutes to complete.
+Please answer the following question:
 <question source="https://raw.githubusercontent.com/Raghukashyap1143/-2U/main/Questions/Page1/Question1.md" /> 
