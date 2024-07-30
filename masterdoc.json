@@ -9,7 +9,16 @@
       },
       {
         "RawFilePath": "https://raw.githubusercontent.com/Raghukashyap1143/-2U/main/Page2.md",
-        "Order": 2
+        "Order": 2,
+        "UnlockingRules": [
+          {
+            "UnlockDependency": "Questions",
+            "DependentQuestions": [
+              "https://raw.githubusercontent.com/Raghukashyap1143/-2U/main/Questions/Page1/Question1.md"
+            ],
+            "UnlockCriteria": "AnsweredCorrectly"
+          }
+        ]
       },
       {
         "RawFilePath": "https://raw.githubusercontent.com/Raghukashyap1143/-2U/main/Page3.md",
@@ -18,8 +27,8 @@
           {
             "UnlockDependency": "Questions",
             "DependentQuestions": [
-              "https://raw.githubusercontent.com/dhananjaygr/InlineQuestions/main/100-Foundation/questions/Page2/question-01.md",
-              "https://raw.githubusercontent.com/dhananjaygr/InlineQuestions/main/100-Foundation/questions/Page2/question-02.md"
+              "https://raw.githubusercontent.com/Raghukashyap1143/-2U/main/Questions/Page1/Question1.md",
+              "https://raw.githubusercontent.com/Raghukashyap1143/-2U/main/Questions/Page1/Question2.md"
             ],
             "UnlockCriteria": "AnsweredCorrectly"
           }
